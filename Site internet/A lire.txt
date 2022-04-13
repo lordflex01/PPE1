@@ -1,0 +1,9 @@
+Lien d'accès au site : 
+
+identifiant pour se connecter en tant que moniteur: 
+	login : jp.pepain@castellane.fr
+	mdp: j2p4p6
+
+identifiant pour se connectet en tant qu'élève: 
+	login: chouakybenzema@gmail.com
+	mdp: iris
