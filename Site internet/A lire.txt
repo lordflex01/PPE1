@@ -1,0 +1,17 @@
+
+Veuillez charger la base de donnée sur votre machine puis décompresser le fichier zip du site.
+
+
+Utilisateurs
+--------------------------------------------------------------
+identifiant pour se connecter en tant que moniteur: 
+	login : jp.pepain@castellane.fr
+	mdp: j2p4p6
+
+identifiant pour se connectet en tant qu'élève: 
+	login: chouakybenzema@gmail.com
+	mdp: iris
+
+identifiant pour se connecter en tant que administrateur:
+	login: admin0
+	mdp: C4st4ut0
